@@ -191,16 +191,12 @@ Each project includes:
 
 ## 📞 Contact
 
-**Mashrafi Imahin** - [GitHub Profile](https://github.com/mashrafimahin)
+**Mashrafi Mahin** - [GitHub Profile](https://github.com/mashrafimahin)
 
-**Project Link**: [https://github.com/mashrafimahin/ObjectOrientedProgramming](https://github.com/mashrafimahin/ObjectOrientedProgramming)
+**Project Link**: [Click Me](https://github.com/mashrafimahin/ObjectOrientedProgramming)
 
-**Email**: [Direct Mail](mailto:mashrafi.devs@gmail.com)
+**Email**: mashrafi.devs@gmail.com
 
 ---
-
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=mashrafimahin/ObjectOrientedProgramming&type=Date)](https://star-history.com/#mashrafimahin/ObjectOrientedProgramming&Date)
 
 **Made with ❤️ for JavaScript developers learning OOP**
